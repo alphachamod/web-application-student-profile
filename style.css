@@ -1,0 +1,13 @@
+@charset "utf-8";
+
+
+/*Name bar Customization */
+
+.name_bar {
+	height: 50px;
+    width: 100px;
+    background-color: #555;
+}
+
+
+
